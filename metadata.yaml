@@ -1,0 +1,47 @@
+_repo: Warm_29509
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Emshwiller, Ed
+    aliases:
+    - Emshwiller, Edmund A.
+    - Emsh
+    - Emsh, Ed
+    - Alexander, Ed
+    - Willer
+    birthdate: 1925
+    deathdate: 1990
+    gutenberg_agent_id: '25412'
+    url: http://www.gutenberg.org/2009/agents/25412
+    wikipedia: http://en.wikipedia.org/wiki/Ed_Emshwiller
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sheckley, Robert
+    aliases:
+    - Barbee, Phillips
+    - Barbee, Phillip
+    - O'Donnevan, Finn
+    - Lang, Ned
+    birthdate: 1928
+    deathdate: 2005
+    gutenberg_agent_id: '2960'
+    url: http://www.gutenberg.org/2009/agents/2960
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Sheckley
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2009-07-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29509'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Short stories'
+title: Warm
+url: http://www.gutenberg.org/ebooks/29509
